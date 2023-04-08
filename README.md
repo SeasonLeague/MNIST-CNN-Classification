@@ -16,7 +16,7 @@ PS: The code was tested on Python 3.11.
 ---
 To use the code, follow these steps:
 
-- Clone the repository: git clone https://github.com/SeasonLeague/MNIST-CNN-Classification.git
+- Clone the repository: `git clone https://github.com/SeasonLeague/MNIST-CNN-Classification.git`
 - Install the required packages: `pip install numpy keras matplotlib`
 - Run the code: python `mnist_cnn.py`
 
